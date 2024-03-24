@@ -7,7 +7,6 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.Enumeration;
 
 //http://localhost:8080/request-header?username=hello
 @WebServlet(name = "requestHeaderServlet", urlPatterns = "/request-header")

@@ -1,5 +1,5 @@
-<%@ page import="hello.servlet.basic.domain.member.MemberRepository" %>
-<%@ page import="hello.servlet.basic.domain.member.Member" %>
+<%@ page import="hello.servlet.domain.member.MemberRepository" %>
+<%@ page import="hello.servlet.domain.member.Member" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
